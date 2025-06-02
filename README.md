@@ -101,17 +101,17 @@ This project is a full-stack web application built using the MERN (MongoDB, Expr
 
 ## 📄 Pages / Screens
 
-The application consists of the following pages:
-
-* **Sign Up:** New user registration.
-* **Login:** Existing user authentication.
-* **Home:** Landing page after login/signup.
-* **Browse:** Displays all ongoing auctions with search functionality.
-* **My Profile:** Shows user details, created auctions, items won, and links to create auctions/change password.
-* **Create Auction:** Form to list a new item for auction.
-* **Change Password:** Allows users to update their password.
-* **Specific Auction:** Detailed view of an auction, enabling real-time bidding.
-* **Navbar:** Visible on most pages for easy navigation.
+| Page / Screen        | Description                                                                  |
+| :------------------- | :--------------------------------------------------------------------------- |
+| **Sign Up** | New user registration.                                                       |
+| **Login** | Existing user authentication.                                                |
+| **Home** | Landing page after successful login/signup.                                  |
+| **Browse** | Displays all ongoing auctions with comprehensive search functionality.       |
+| **My Profile** | Shows user details, lists auctions created by the user, items won, and provides links to create new auctions or change password. |
+| **Create Auction** | Form to list a new item for auction, including details like starting bid, duration, and item description. |
+| **Change Password** | Allows authenticated users to securely update their account password.         |
+| **Specific Auction** | Detailed view of an individual auction item, featuring real-time bidding updates and controls. |
+| **Navbar** | A persistent navigation bar visible on most pages, providing easy access to key sections of the application. |
 
 ---
 
